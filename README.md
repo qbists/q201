@@ -10,6 +10,12 @@ From the Introduction:
 > If you need more, q201 formalises, extends, and exercises your knowledge.
 
 The content aims to help you write the kind of terse code for which the “q gods” are famous.
+You’ll know the rules for composing functions together, and why
+
+    (+) prior til 5
+    {x+y} prior til 5
+
+return different results and one requires parentheses and the other does not.
 
 As the content is developed it is being tested by students in tutorials with the authors.
 These tutorials are currently free of charge.
